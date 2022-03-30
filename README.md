@@ -1,1 +1,1 @@
-# EmojiCrypt
+# Emoji Crypt
